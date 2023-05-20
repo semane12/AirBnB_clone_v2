@@ -5,7 +5,7 @@
 """
 from models import storage
 from flask import Flask
-from flask import render_template
+from flask import render_templates
 
 app = Flask(__name__)
 
